@@ -1,0 +1,26 @@
+{
+    "context": "client",
+    "identifier": "com.pa.tesseracta.client.maps",
+    "display_name": "Poseidons Trident Map Pack",
+    "description": "A series of maps and different map types. Be sure to check the forums. Also, the user who created these maps is now renamed to .+.",
+    "author": "TesseractA",
+    "version": "1.1.0",
+    "build": "99377",
+    "date": "2017/01/09",
+    "signature": "not yet implemented",
+    "forum": "https://forums.uberent.com/threads/poseidons-trident-map-pack.69030/",
+    "category": [
+        "ui",
+		"maps"
+    ],
+    "load_planet": [
+        "coui://ui/mods/PTMP/maplist.js"
+    ],
+    "id": "PTMP",
+	"icon": "http://hydra-media.cursecdn.com/terraria.gamepedia.com/9/9a/Trident.png?version=52e690b2ba5f72013d1a77545917945d",
+    "priority": 500,
+    "enabled": true,
+    "dependencies": [
+        "com.pa.conundrum.cShareSystems"
+    ]
+}
